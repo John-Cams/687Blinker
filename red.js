@@ -1,6 +1,7 @@
 let color = "red";
 const white = "white";
 
+document.documentElement.requestFullscreen();
 document.getElementById("text").style.color = color
 
 const interval = setInterval(function flipColor(){

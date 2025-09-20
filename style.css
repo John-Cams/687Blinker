@@ -4,7 +4,8 @@ html, body {
 }
 
 h1{
-    font-size:100vh;
+    font-size:90vh;
+    padding-top:0px;
     margin-top: 0px;
     margin-bottom: 0px;
     text-align: center;
